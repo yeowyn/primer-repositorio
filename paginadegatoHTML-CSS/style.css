@@ -1,0 +1,23 @@
+body{
+  background-color: silver;
+  
+}
+
+h2 {
+  color: #f00;
+}
+
+img{
+  border-radius: 50%;
+  border-width: 3px;
+  border-style: solid;
+  border-color: #eb4033;
+}
+
+a{
+  color: rgba(255, 9, 136, 0.501);
+}
+
+
+
+
